@@ -1,0 +1,3 @@
+MENU ./ressources/audio/music/MinecraftMusic.ogg
+GAME ./ressources/audio/music/MusicPlayChicken.ogg
+SPLASH ./ressources/audio/music/originalGameBoyAdvanceStartup.ogg

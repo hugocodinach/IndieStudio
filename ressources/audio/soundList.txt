@@ -1,0 +1,11 @@
+EXPLO1 ./ressources/audio/sounds/explosion01.ogg
+EXPLO2 ./ressources/audio/sounds/explosion02.ogg
+EXPLO3 ./ressources/audio/sounds/explosion03.ogg
+TP ./ressources/audio/sounds/DbzTp.ogg
+DEATH ./ressources/audio/sounds/death.ogg
+KICK ./ressources/audio/sounds/kick.ogg
+BONUS ./ressources/audio/sounds/SonicRing.ogg
+STUN ./ressources/audio/sounds/CSGOZeusStun.ogg
+CLIC ./ressources/audio/sounds/ChickenSound.ogg
+BUTTON_HOVER ./ressources/audio/sounds/sound_hover_button.wav
+BUTTON_CLICKED ./ressources/audio/sounds/quack.wav
